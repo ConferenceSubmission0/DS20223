@@ -17,8 +17,8 @@ Python script allows you to check for data leakage in a CSV dataset. It offers t
 2. A menu will be displayed to choose the option:
 - Enter `1` to check for leakage.
 - Enter `2` to enter leak and check behavior of model.
-3. If `1` is chosen, the script will run the leak check and print out the results.
-4. If `2` is chosen, the script will prompt you to specify a leak percentage. Enter one of the following values:
+3. If `1` is chosen, the script will run the leakage check and print out the results.
+4. If `2` is chosen, the script will prompt you to specify a leakage percentage. Enter one of the following values:
     - `0.5`
     - `0.6`
     - `0.7`
