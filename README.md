@@ -13,7 +13,11 @@ Python script allows you to check for data leakage in a CSV dataset. It offers t
   `Task:`
      - `0`: Regression;
      - `1`: Classification.
-
+   If you want to test it: 
+     - Regression:
+       `python3 ./Code/main.py ./datasets/Regression/factory_salary.csv 0`
+     - Classification:
+        `python3 ./Code/main.py ./datasets/Classification/churn_modeling.csv 1`
 2. A menu will be displayed to choose the option:
 - Enter `1` to check for leakage.
 - Enter `2` to enter leak and check behavior of model.
