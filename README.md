@@ -1,5 +1,5 @@
 
-# Data Leakage with semi-supervised learning
+# Data Leakage with semi-supervised causal learning
 
 Python script allows you to check for data leakage in a CSV dataset. It offers two options: check for leakage and introduce leakage to check the behavior of the model.
 
