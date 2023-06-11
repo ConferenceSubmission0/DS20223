@@ -37,5 +37,3 @@ Python script allows you to check for data leakage in a CSV dataset. It offers t
 
 - Make sure you have a valid CSV file with a `,` delimiter.
 - Make sure you provide the correct path to the CSV file and the class number correctly.
-
-## Autor
